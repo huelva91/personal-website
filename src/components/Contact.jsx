@@ -38,7 +38,7 @@ function Contact() {
                                 </svg>
                             </div>
                             <h3>GitHub</h3>
-                            <a href="https://github.com/sergiohuelva" target="_blank" rel="noopener noreferrer">github.com/sergiohuelva</a>
+                            <a href="https://github.com/huelva91" target="_blank" rel="noopener noreferrer">github.com/sergiohuelva</a>
                         </div>
                     </div>
 
